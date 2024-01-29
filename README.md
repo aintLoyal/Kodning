@@ -1,0 +1,2 @@
+# Kodning
+Første git projekt
