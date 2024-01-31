@@ -85,7 +85,7 @@ article div {
 }
 
 .fælleskab h1 {
-    margin: 0 0 20px 0;
+    margin: 0 0 30px 0;
 }
 
 .tilmeld {
@@ -128,16 +128,33 @@ article div {
 .fantastisk {
     display: flex;
     flex-direction: column;
+    width: 80%;
 }
 
 .fantastisk h1 {
     text-align: center;
+    margin: 0 0 30px 0;
 }
 
 .article2 {
     background-color: white;
+    display: flex;
+    justify-content: center;
 }
 
 .fantastisk {
     background-color: white;
+}
+
+.fantastisk a {
+    border-radius: 15px;
+    padding: 15px 30px;
+    width: fit-content;
+    color: white;
+    background-color: #779882;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-self: center;
+    margin: 30px;
 }
