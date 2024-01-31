@@ -158,3 +158,22 @@ article div {
     align-self: center;
     margin: 30px;
 }
+
+footer {
+    background-color: #425348;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer div {
+    margin: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: 900;
+}
